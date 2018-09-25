@@ -1,11 +1,16 @@
 _repo: Two-Tracts-on-Civil-Liberty-the-War-with-America-and-the-Debts-and-Finances-of-the-Kingdom-Wi__57970
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57970-h/images/cover.jpg
 creator:
   author:
     agent_name: Price, Richard
     gutenberg_agent_id: '49714'
     url: http://www.gutenberg.org/2009/agents/49714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57970#Two-Tracts-on-Civil-Liberty-the-War-with-America-and-the-Debts-and-Finances-of-the-Kingdom-Wi_
 gutenberg_issued: '2018-09-24'
 gutenberg_type: Text
 identifiers:
